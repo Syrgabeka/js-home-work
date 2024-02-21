@@ -71,6 +71,7 @@ if (number % 2 === 0) {
 }
 
 //Задача 9
+// Терналный оператор
 let num = 5;
 
 num === 5 ? console.log("Five"): console.log("Not five");
