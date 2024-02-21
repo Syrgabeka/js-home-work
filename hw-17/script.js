@@ -73,8 +73,5 @@ if (number % 2 === 0) {
 //Задача 9
 let num = 5;
 
-if (num === 5) {
-  console.log("Five");
-} else {
-  console.log("Not five");
-}
+num === 5 ? console.log("Five"): console.log("Not five");
+
